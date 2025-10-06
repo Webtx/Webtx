@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey there! I'm Annie 👋  
 
-<!--
-**Webtx/Webtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **computer science student** who loves combining **code and design** to build clean, functional, and beautiful projects.  
 
-Here are some ideas to get you started:
+When I’m not coding, you’ll probably find me **drawing, exploring digital art, crafting pixel designs, or playing around in Figma**. I enjoy creating interfaces that are not just usable but enjoyable to interact with.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I’m into
+- **Software Engineering:** building projects that work smoothly and solve real problems  
+- **UX/UI Design:** crafting interfaces that feel intuitive and look nice  
+- **Creative Side:** digital art, pixel art, and design experiments  
+
+---
+
+### Featured Projects
+- **Champlain Pet Clinic:** Product microservice for a vet clinic management system (Spring Boot, REST API)  
+- **ECP Grocery App:** Full-stack recipe and grocery tracker (React, TypeScript, Material UI, .NET Core)  
+
+---
+
+### My Toolbox
+**Languages & Frameworks:** JavaScript, TypeScript, Java, C#, React, Spring Boot, .NET Core, Angular, Laravel  
+**Tools & DBs:** Figma, Material UI, MySQL, MongoDB, Docker, Jira, CI/CD  
+
+---
+
+### Connect with me
+[LinkedIn](https://linkedin.com/in/webtx) | ✉️ happyyyannie@gmail.com  
+
+---
+
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=webtx&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webtx&layout=compact&theme=tokyonight)
