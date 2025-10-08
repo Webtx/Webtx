@@ -9,13 +9,7 @@ When I’m not coding, you’ll probably find me **drawing, exploring digital ar
 ### What I’m into
 - **Software Engineering:** building projects that work smoothly and solve real problems  
 - **UX/UI Design:** crafting interfaces that feel intuitive and look nice  
-- **Creative Side:** digital art, pixel art, and design experiments  
-
----
-
-### Featured Projects
-- **Champlain Pet Clinic:** Product microservice for a vet clinic management system (Spring Boot, REST API)  
-- **ECP Grocery App:** Full-stack recipe and grocery tracker (React, TypeScript, Material UI, .NET Core)  
+- **Creative Side:** digital art, pixel art, and designing
 
 ---
 
